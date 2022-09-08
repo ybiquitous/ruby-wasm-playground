@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ruby-head-wasm-wasi": "^0.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "scripts": {
+    "test": "node --experimental-wasi-unstable-preview1 index.js",
+    "format": "prettier --write ."
+  }
+}
