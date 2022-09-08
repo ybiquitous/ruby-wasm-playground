@@ -2,11 +2,18 @@
 
 See the [sample code](index.cjs).
 
-Run `npm it` (or `npm t`), then you should see the output below:
+Run `npm install` and `./index.cjs`, then you should see the output below:
 
 ```
 ruby 3.2.0dev (2022-04-09) [wasm32-wasi]
-You are Unlucky
+```
+
+Specify a Ruby script file:
+
+```console
+$ ./index.cjs hello.rb
+...
+Hello Ruby WASM! 💎
 ```
 
 You can also play on GitHub Codespaces.
