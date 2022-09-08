@@ -6,7 +6,7 @@
     "prettier": "^2.7.1"
   },
   "scripts": {
-    "test": "node --experimental-wasi-unstable-preview1 index.js",
+    "test": "node --experimental-wasi-unstable-preview1 index.cjs",
     "format": "prettier --write ."
   }
 }
