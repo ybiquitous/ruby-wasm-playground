@@ -7,6 +7,8 @@ ruby 3.2.0dev (2022-04-09) [wasm32-wasi]
 You are Unlucky
 ```
 
+You can also play on GitHub Codespace.
+
 ## See also
 
 - https://github.com/ruby/ruby.wasm
