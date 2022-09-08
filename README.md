@@ -1,6 +1,6 @@
 # Ruby WASM Playground
 
-Run `npm it` (`npm t`), then you should see the output below:
+Run `npm it` (or `npm t`), then you should see the output below:
 
 ```
 ruby 3.2.0dev (2022-04-09) [wasm32-wasi]
