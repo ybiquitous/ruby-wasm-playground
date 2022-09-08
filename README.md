@@ -1,6 +1,6 @@
 # Ruby WASM Playground
 
-See the [sample code](index.js).
+See the [sample code](index.cjs).
 
 Run `npm it` (or `npm t`), then you should see the output below:
 

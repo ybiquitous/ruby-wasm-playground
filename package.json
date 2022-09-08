@@ -7,6 +7,7 @@
   },
   "scripts": {
     "test": "node --experimental-wasi-unstable-preview1 index.cjs",
+    "test:esm": "node --experimental-wasi-unstable-preview1 index.mjs",
     "format": "prettier --write ."
   }
 }
