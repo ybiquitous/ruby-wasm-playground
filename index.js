@@ -1,4 +1,4 @@
-#!/usr/bin/env node --experimental-wasi-unstable-preview1
+#!/usr/bin/env -S node --experimental-wasi-unstable-preview1
 
 import fs from "node:fs/promises";
 import { DefaultRubyVM } from "ruby-head-wasm-wasi/dist/node.cjs.js"; // TODO: `node.esm.js` is not working...
